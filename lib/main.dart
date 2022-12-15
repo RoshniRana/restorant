@@ -36,7 +36,7 @@ class _restorantState extends State<restorant> {
     item2.text="1";
     item3.text="1";
     item4.text="1";
-    item5.text="1";
+    item5.text="2";
 
     // sum=0;
   }
